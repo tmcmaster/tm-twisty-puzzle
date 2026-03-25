@@ -1,35 +1,26 @@
 ---
-project:
-  name: "tm-twisty-puzzle"
-  description: "polymer component to render and animate twisty puzzles " # Escape double quotes in description
-  author: "Tim McMaster"
-  version: "0.1.0"
-
-origin:
-  repo_type: "original"
-  git_url: "https://github.com/tmcmaster/tm-twisty-puzzle"
-  created: "2017-11-04"
-  modified: "2025-05-29"
-
-classification:
-  status: "unsorted"
-  engagement: "shelved"
-  priority: "low"
-  intent: []
-  domain: []
-  audience: "personal"
-
-stack:
-  languages: []
-  frameworks: []
-  databases: []
-  infrastructure: []
-  cloud: "none"
-
-capabilities:
-  features: []
-
-syntropy_id: ""
-collections: []
-tags: []
+Title: tm-twisty-puzzle
+Description: 'polymer component to render and animate twisty puzzles '
+Author: Tim McMaster
+Created: '2017-11-04'
+Modified: '2025-05-29'
+Status: concept
+Engagement: back-burner
+Audience: personal
+Priority: sometime
+Version: 0.1.0
+Repo-Type: original
+Repo-Author: tmcmaster
+Repo-Name: tm-twisty-puzzle
+Intent: []
+Domain: []
+Languages:
+- HTML
+- Shell
+- JavaScript
+Frameworks: []
+Databases: []
+Infrastructure: []
+Features: []
 ---
+
